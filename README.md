@@ -25,7 +25,7 @@ if: 还有库存？
 end
 ```
 
-![example](https://github.com/picasso250/Write-Flow/blob/master/example.png)
+![example](https://github.com/picasso250/Write-Flow/blob/master/example.png?raw=true)
 
 好吧，我还是注释一下吧：
 
